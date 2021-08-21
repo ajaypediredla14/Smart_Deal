@@ -1,0 +1,54 @@
+{
+    "Product": {
+        "1": {
+            "Website_Name": "Amazon",
+            "Source_Link": "https://www.amazon.in/s?k=Lg Washing Machine",
+            "Website_Link": "https://www.amazon.in",
+            "Product_Name": "LG 7 kg Semi-Automatic Top Loading Washing Machine (P7010RRAA, Burgundy)",
+            "Product_Link": "https://www.amazon.in//LG-Semi-Automatic-Loading-P7010RRAA-Burgundy/dp/B07WWXQNS3/ref=sr_1_3?dchild=1&keywords=Lg+Washing+Machine&qid=1629556242&sr=8-3",
+            "Product_Price": "11,790",
+            "Product_Image": "https://m.media-amazon.com/images/I/61FI1iqZkML._AC_UY218_.jpg",
+            "Product_Logo": "http://www.bizmonthly.com/wp-content/uploads/2020/04/Amazon-logo-black-template.png"
+        },
+        "2": {
+            "Website_Name": "Flipkart",
+            "Source_Link": "https://www.flipkart.com/search?q=Lg Washing Machine",
+            "Website_Link": "https://www.flipkart.com/",
+            "Product_Name": "LG 6.5 kg 5 Star Inverter Fully Automatic Top Load Silver",
+            "Product_Link": "https://www.flipkart.com//lg-6-5-kg-5-star-inverter-fully-automatic-top-load-silver/p/itme4cacbedc1c8f?pid=WMNFZX5BMUYJMPRB&lid=LSTWMNFZX5BMUYJMPRBQPQHWF&marketplace=FLIPKART&q=Lg+Washing+Machine&store=j9e%2Fabm%2F8qx&spotlightTagId=BestsellerId_j9e%2Fabm%2F8qx&srno=s_1_2&otracker=search&fm=organic&iid=77e95d87-8756-4c1e-8745-6a3da0fa854f.WMNFZX5BMUYJMPRB.SEARCH&ppt=None&ppn=None&ssid=0zzzh5acrk0000001629556244610&qH=adb4f27db2d9c391",
+            "Product_Price": "15,990",
+            "Product_Image": "https://rukminim1.flixcart.com/image/312/312/k6zda4w0/washing-machine-new/p/r/b/t65sksf4z-lg-original-imafpbmu7sfss4k6.jpeg?q=70",
+            "Product_Logo": "https://www.freepnglogos.com/uploads/flipkart-logo-png/flipkart-icon-23.png"
+        },
+        "3": {
+            "Website_Name": "Croma",
+            "Source_Link": "https://www.croma.com/search/?q=Lg Washing Machine",
+            "Website_Link": "https://www.croma.com/",
+            "Product_Name": "LG 6.5 kg Fully Automatic Top Loading Washing Machine (T7581NDDLG, Silver)",
+            "Product_Link": "https://www.croma.com/lg-6-5-kg-fully-automatic-top-loading-washing-machine-t7581nddlg-silver-/p/207378",
+            "Product_Price": 16994,
+            "Product_Image": "https://media.croma.com/image/upload/v1605157975/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/8868339548190.png",
+            "Product_Logo": "https://zeevector.com/wp-content/uploads/2021/02/Croma-Logo-Vector.png"
+        },
+        "4": {
+            "Website_Name": "Reliance digital",
+            "Source_Link": "https://www.reliancedigital.in/search?q=Lg Washing Machine",
+            "Website_Link": "https://www.reliancedigital.in/",
+            "Product_Name": "LG 7 Kg Top Fully Automatic Washing Machine with Smart Inverter Technology, T70SNSF3Z",
+            "Product_Link": "https://www.reliancedigital.in/lg-7-kg-top-fully-automatic-washing-machine-with-smart-inverter-technology-t70snsf3z/p/491604524",
+            "Product_Price": "20,990",
+            "Product_Image": "https://www.reliancedigital.in/medias/LG-T70SNSF3Z-7-Kg-Top-Fully-Automatic-Washing-Machine-491604524-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0MTg5OHxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaGQ0LzkzNDAwNDEwNjg1NzQuanBnfGRiZTdhMWZiYTViNWY5NmEwNTA1MjMyOGEwZDIwZGU2YTc2ZTEyNzY5N2QzMjkzMWJlZTYyMzBjODc0YTRhZjg",
+            "Product_Logo": "https://searchlogovector.com/wp-content/uploads/2020/04/reliance-digital-logo-vector.png"
+        },
+        "5": {
+            "Website_Name": "TATACLIQ",
+            "Source_Link": "https://www.tatacliq.com/search/?q=Lg Washing Machine",
+            "Website_Link": "https://www.tatacliq.com/",
+            "Product_Name": "LG 6.5 Kg Smart Inverter 5 Star Fully Automatic Top Load Washing Machine (T65SKSF4Z, Silver)",
+            "Product_Link": "https://www.tatacliq.com/lg-6-5-kg-smart-inverter-5-star-fully-automatic-top-load-washing-machine-t65sksf4z-silver/p-mp000000006895256",
+            "Product_Price": 16490,
+            "Product_Image": "//img.tatacliq.com/images/i7/437Wx649H/MP000000006895256_437Wx649H_202104301250041.jpeg",
+            "Product_Logo": "https://mma.prnewswire.com/media/958758/Tata_CLiQ_Logo.jpg?p=facebook"
+        }
+    }
+}
