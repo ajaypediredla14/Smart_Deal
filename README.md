@@ -43,7 +43,7 @@ To run this project, Download or clone my github repository locally:
 ```
 
 ## Features
-Basically it works as a products price comparator in which we can access the particular product details from different E-commerce API's at the same time.
+Basically it works as a products price comparator in which we can access the particular product Information from different E-commerce API's at the same time.
 
 
 
