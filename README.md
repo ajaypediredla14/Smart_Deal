@@ -4,7 +4,7 @@
 
 # Smart_Deal
 
-## Python Task Management App
+## Python Smart Scraper
 #### Smart Deal  created  using  python (Tkinter module) , Selenium ,BeautifulSoup , Tinydb , Requests and Json .
 
 ## Table of contents
