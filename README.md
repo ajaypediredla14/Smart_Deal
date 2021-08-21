@@ -39,7 +39,7 @@ To run this project, Download or clone my github repository locally:
     => pip install tinydb
     => pip install requests
     ...
-* Run the task_tkinter.py file 
+* Run the smart_price_scraper2.0.py file 
 ```
 
 ## Features
