@@ -7,6 +7,7 @@
 ## Python Smart Scraper
 #### Smart Deal  created  using  python (Tkinter module) , Selenium ,BeautifulSoup , Tinydb , Requests and Json .
 
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -29,7 +30,7 @@ App is created with:
 * Requests
 
 ## Setup
-To run this project, Download or clone my github repository locally:
+To run this project, Download or clone my github repository locally(code available on master branch):
 ```
 * open the main smart_price_scraper2.0.py file into your IDE.
 * Make sure that all necessary libraries are Installed.
